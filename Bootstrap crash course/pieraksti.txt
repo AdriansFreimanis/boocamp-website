@@ -1,0 +1,16 @@
+Section Newsletter:
+
+
+bg-primary for light blue color for the whole screen
+
+text-light to set white letters in the whole sections
+
+p-5 for 32px padding on all sides of the element
+
+container - to wrap elements on smaller screens
+
+d-md-flex - makes the element a flexible container on screens that are wider than 750px
+
+mb-3 - margin bottom
+
+mb-md-0- margin bottom 0 onmedius screen
